@@ -17,7 +17,7 @@ A hands-on exercise covering namespace creation, pod deployment, and port-forwar
 kind: Namespace
 apiVersion: v1
 metadata:
-  name: nginx-ns
+  name: devboard-ns
 ```
 
 ### `pod.yml`
